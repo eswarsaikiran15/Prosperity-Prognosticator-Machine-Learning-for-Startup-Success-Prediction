@@ -98,7 +98,7 @@ Multiple models were trained and evaluated, including:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/prosperity-prognosticator.git
+   git clone https://github.com/eswarsaikiran15/prosperity-prognosticator.git
    ```
 2. Navigate to the project directory
 
