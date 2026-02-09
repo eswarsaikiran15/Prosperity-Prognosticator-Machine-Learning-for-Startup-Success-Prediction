@@ -1,8 +1,4 @@
-Below is a **clean, professional `README.md`** tailored to your project and aligned with what’s inside the notebook.
 
-You can directly copy-paste this into your GitHub repository.
-
----
 
 # 🌱 Prosperity Prognosticator
 
